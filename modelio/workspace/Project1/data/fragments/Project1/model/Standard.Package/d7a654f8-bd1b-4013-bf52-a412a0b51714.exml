@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="project1" version="4">
+  <OBJECT>
+    <ID name="project1" mc="Standard.Package" uid="d7a654f8-bd1b-4013-bf52-a412a0b51714"/>
+    <PID name="Project1" mc="Standard.Project" uid="1fd54d37-3bc5-449c-a16b-b65c9e23d85d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[project1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="BIBLIOTECA" mc="Standard.Class" uid="ca723952-afee-4d10-a963-5e830e82e58d"/>
+        <COMPID name="DATABASE" mc="Standard.Class" uid="536423ea-cf1e-4846-984e-436bd20ce40c"/>
+        <COMPID name="libro" mc="Standard.Class" uid="31387402-e24c-451a-a696-9cf13b4d63f1"/>
+        <COMPID name="pelicula" mc="Standard.Class" uid="a479401b-94c0-4287-a3b2-d1219064caa0"/>
+        <COMPID name="Usuario" mc="Standard.Class" uid="336ab8ee-7d88-4fd5-aa7c-13fbd75a361a"/>
+        <COMPID name="UsuarioNormal" mc="Standard.Class" uid="2a239398-6cf8-426d-a605-d81e2983943b"/>
+        <COMPID name="UsuarioAdministrador" mc="Standard.Class" uid="42ddcad9-87d0-44a1-a0aa-6915c73a2c5b"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="project1 Class diagram" mc="Standard.ClassDiagram" uid="bd3cc569-62f9-49f3-8f9d-fba058a1bf37"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
