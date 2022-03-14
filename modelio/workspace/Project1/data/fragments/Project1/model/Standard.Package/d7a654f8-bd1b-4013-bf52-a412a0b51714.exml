@@ -13,6 +13,9 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="AltaUsuario" mc="Standard.Interaction" uid="d816580e-0e1b-4527-9a6c-c5bc52d7be7f"/>
+      </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="BIBLIOTECA" mc="Standard.Class" uid="ca723952-afee-4d10-a963-5e830e82e58d"/>
         <COMPID name="DATABASE" mc="Standard.Class" uid="536423ea-cf1e-4846-984e-436bd20ce40c"/>
