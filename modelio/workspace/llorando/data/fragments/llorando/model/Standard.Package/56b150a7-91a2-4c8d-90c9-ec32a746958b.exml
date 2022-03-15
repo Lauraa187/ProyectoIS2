@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="llorando" version="4">
+  <OBJECT>
+    <ID name="llorando" mc="Standard.Package" uid="56b150a7-91a2-4c8d-90c9-ec32a746958b"/>
+    <PID name="llorando" mc="Standard.Project" uid="c95566f4-fe71-473d-9667-d5e93d26e513"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[llorando]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="2b16c32a-0bbf-42c5-ade7-0c8239df1eeb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

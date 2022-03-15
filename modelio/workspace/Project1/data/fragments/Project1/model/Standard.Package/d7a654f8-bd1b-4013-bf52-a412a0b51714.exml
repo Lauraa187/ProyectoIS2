@@ -15,6 +15,9 @@
     <DEPENDENCIES>
       <COMP relation="OwnedBehavior">
         <COMPID name="AltaUsuario" mc="Standard.Interaction" uid="d816580e-0e1b-4527-9a6c-c5bc52d7be7f"/>
+        <COMPID name="ConsultaLibro" mc="Standard.Interaction" uid="777299f2-1aa6-4e77-be4a-13bc8e1f074c"/>
+        <COMPID name="ObtenerListaPrestamos" mc="Standard.Interaction" uid="952ba9f1-0885-4705-9529-e71b0042becf"/>
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="45102d49-1419-41e2-8769-8ea2cc76ed14"/>
       </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="BIBLIOTECA" mc="Standard.Class" uid="ca723952-afee-4d10-a963-5e830e82e58d"/>

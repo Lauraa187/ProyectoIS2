@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ConsultaLibro" version="4">
+  <OBJECT>
+    <ID name="ConsultaLibro" mc="Standard.SequenceDiagram" uid="b6bfcc0a-7038-477d-a637-32cacd12c9cd"/>
+    <PID name="ConsultaLibro" mc="Standard.Interaction" uid="777299f2-1aa6-4e77-be4a-13bc8e1f074c"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU1FP4zAM/itR3peNFbE7qQxBiyZEYWiDk+4JuYkZ4dJkl6Sw/ntSunFs3KaehI4XnmLZ/uzPzuf4aFEo8ojWSaMP6R7rUXI0jMf5A3JPpAguSnw1x0Nq7IwVRqCShpWFYg5/l6g5CgkzCwULhjeWocICtXfv4qNiuvSkjYeSAh6MvX3t3qPD+MqaOVpfEQ1FaKqgMqVPwUOI/QBV4pKNLpWi3WHcXQHeQae+UkjXZun/bZYVP1fnO8aNRdZgW/BLwHEQKFbNThd+gnctu1yGEkskwYVP87PA8cWsjYsGSSK22Bi024y0a3iLCjyKwGVjbxe1izzWnnpFoAVYwTZ+huQH+R3nPegMetG3zv5gIDpwEA06UZ8DF3t9/p2L3dtX4Py5Nk86gxzVBompt1LP6DAx2pXKQyZza+LuS8rOqYzCM52YYm6c9OFPttRtUSq5l0pYrCtk0tW7XD5bEZnUv1z79JNZauEp0MmgQruuw2iXDl8PSDR4x1RdIdzPWsH/czz/hvp01UmxRRHpiGXHP08ntyfHyfloMr65TD9GJC1u8e23/RHQGznsf8nhs+RwPb76aB1sDT0DdDGYYQ==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[ConsultaLibro]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="22d1b90c-6d41-4cbb-91f6-577a4abcdbe7"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
